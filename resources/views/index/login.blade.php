@@ -1,4 +1,6 @@
+@extends('masterPages.index_mp')
 
+@section('content')
 	<div class="row papel-color borde space-top">
 		<div class="col-md-offset-1 col-md-5 rsp ">
 			<div class="modal-centro">
@@ -37,3 +39,4 @@
 		<div class="col-md-6"></div>
 
 	</div>-->
+@endsection	
