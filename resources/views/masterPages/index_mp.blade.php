@@ -64,7 +64,7 @@
         <p>Ponte en contacto con nosotros.</p>
         <p><i class="fa fa-map-pin"></i> 210, Aggarwal Tower, Rohini sec 9, New Delhi -        110085, INDIA</p>
         <p><i class="fa fa-phone"></i> Fono (Chile) : 43 – 2321331</p>
-        <p><i class="fa fa-envelope"></i> E-mail : iunpadela@gmail.com</p>
+        <p><i class="fa fa-envelope"></i> Correo Electronico : iunpadela@gmail.com</p>
       </div>
       <div class="col-md-2 col-sm-6 paddingtop-bottom">
         <h6 class="heading7">LINKS INTERESANTES</h6>
